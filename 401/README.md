@@ -7,10 +7,10 @@
 
 | Reads   | Name of Read |
 | ----------- | ----------- |
-| Read 1  |[Read1](https://zaidalasfar97.github.io/Reading-Notes-401/Read01) |
-| Read 2  |[Read2](https://zaidalasfar97.github.io/Reading-Notes-401/Read02)|
-| Read 3  |[Read3](https://zaidalasfar97.github.io/Reading-Notes-401/Read03)|
-| Read 4  | |
+| Read 1  |[Read1](https://zaidalasfar97.github.io/Reading-Notes/401/Read01) |
+| Read 2  |[Read2](https://zaidalasfar97.github.io/Reading-Notes/401/Read02)|
+| Read 3  |[Read3](https://zaidalasfar97.github.io/Reading-Notes/401/Read03)|
+| Read 4  |[Read4](https://zaidalasfar97.github.io/Reading-Notes/401/Read04)|
 | Read 5  | |
 | Read 6  | |
 | Read 7  | |
