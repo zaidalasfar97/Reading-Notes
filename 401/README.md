@@ -11,12 +11,12 @@
 | Read 2  |[Read2](https://zaidalasfar97.github.io/Reading-Notes/401/Read02)|
 | Read 3  |[Read3](https://zaidalasfar97.github.io/Reading-Notes/401/Read03)|
 | Read 4  |[Read4](https://zaidalasfar97.github.io/Reading-Notes/401/Read04)|
-| Read 5  |[Read4](https://zaidalasfar97.github.io/Reading-Notes/401/Read05)|
-| Read 6  | |
-| Read 7  | |
-| Read 8  | |
-| Read 9  | |
-| Read 10 | |
+| Read 5  |[Read5](https://zaidalasfar97.github.io/Reading-Notes/401/Read05)|
+| Read 6  |[Read6](https://zaidalasfar97.github.io/Reading-Notes/401/Read06)|
+| Read 7  |[Read7](https://zaidalasfar97.github.io/Reading-Notes/401/Read07)|
+| Read 8  |[Read8](https://zaidalasfar97.github.io/Reading-Notes/401/Read08)|
+| Read 9  |[Read9](https://zaidalasfar97.github.io/Reading-Notes/401/Read09)|
+| Read 10 |[Read10](https://zaidalasfar97.github.io/Reading-Notes/401/Read10)|
 | Read 11 | |
 | Read 12 | |
 | Read 13 | |
