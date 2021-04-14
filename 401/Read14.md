@@ -15,3 +15,11 @@
 
 ##### Depth First
 ##### Breadth First
+
+
+### Depth First
+###### Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root. Here are three methods for depth first traversal:
+
+###### Pre-order: root >> left >> right
+###### In-order: left >> root >> right
+###### Post-order: left >> right >> root
