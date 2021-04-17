@@ -22,9 +22,9 @@
 | Read 13 |[Read13](https://zaidalasfar97.github.io/Reading-Notes/401/Read13)|
 | Read 14 |[Read14](https://zaidalasfar97.github.io/Reading-Notes/401/Read14)|
 | Read 15 |[Read15](https://zaidalasfar97.github.io/Reading-Notes/401/Read15)|
-| Read 16 | |
-| Read 17 | |
-| Read 18 | |
+| Read 16 |[Read16](https://zaidalasfar97.github.io/Reading-Notes/401/Read16)|
+| Read 17 |[Read17](https://zaidalasfar97.github.io/Reading-Notes/401/Read17)|
+| Read 18 |[Read18](https://zaidalasfar97.github.io/Reading-Notes/401/Read18)|
 | Read 19 | |
 | Read 20 | |
 | Read 21 | |
