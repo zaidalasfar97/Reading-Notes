@@ -27,7 +27,7 @@
 | Read 18 |[Read18](https://zaidalasfar97.github.io/Reading-Notes/401/Read18)|
 | Read 19 |[Read19](https://zaidalasfar97.github.io/Reading-Notes/401/Read19)|
 | Read 20 |[Read20](https://zaidalasfar97.github.io/Reading-Notes/401/Read20)|
-| Read 21 | |
+| Read 21 |[Read21](https://zaidalasfar97.github.io/Reading-Notes/401/Read21) |
 | Read 22 | |
 | Read 23 | |
 | Read 24 | |
