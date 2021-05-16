@@ -31,8 +31,8 @@
 | Read 22 |[Read22](https://zaidalasfar97.github.io/Reading-Notes/401/Read22)|
 | Read 23 |[Read23](https://zaidalasfar97.github.io/Reading-Notes/401/Read23)|
 | Read 24 |[Read24](https://zaidalasfar97.github.io/Reading-Notes/401/Read24)|
-| Read 25 |[Read24](https://zaidalasfar97.github.io/Reading-Notes/401/Read25)|
-| Read 26 | |
+| Read 25 |[Read25](https://zaidalasfar97.github.io/Reading-Notes/401/Read25)|
+| Read 26 |[Read26](https://zaidalasfar97.github.io/Reading-Notes/401/Read26)|
 | Read 27 | |
 | Read 28 | |
 | Read 29 | |
