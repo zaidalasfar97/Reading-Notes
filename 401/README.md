@@ -34,7 +34,7 @@
 | Read 25 |[Read25](https://zaidalasfar97.github.io/Reading-Notes/401/Read25)|
 | Read 26 |[Read26](https://zaidalasfar97.github.io/Reading-Notes/401/Read26)|
 | Read 27 |[Read27](https://zaidalasfar97.github.io/Reading-Notes/401/Read27)|
-| Read 28 | |
+| Read 28 |[Read28](https://zaidalasfar97.github.io/Reading-Notes/401/Read28)|
 | Read 29 | |
 | Read 30 | |
 | Read 31 | |
