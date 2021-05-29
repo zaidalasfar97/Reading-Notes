@@ -40,7 +40,7 @@
 | Read 31 |[Read31](https://zaidalasfar97.github.io/Reading-Notes/401/Read31)|
 | Read 32 |[Read32](https://zaidalasfar97.github.io/Reading-Notes/401/Read32)|
 | Read 33 |[Read33](https://zaidalasfar97.github.io/Reading-Notes/401/Read33)|
-| Read 34 | |
+| Read 34 |[Read34](https://zaidalasfar97.github.io/Reading-Notes/401/Read34)|
 | Read 35 | |
 | Read 36 | |
 | Read 37 | |

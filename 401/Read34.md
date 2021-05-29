@@ -1,0 +1,14 @@
+# Compare and Contrast Redux Toolkit with Redux “Ducks”
+#### Ducks is a way to bundle reducers, action types, and actions into the same file. Rather than splitting up related code, it can be packaged into redux modules. (source: Medium (Links to an external site.)) Redux Toolkit’s goal is to help simplify common Redux use cases. It is not intended to be a complete solution for everything you might want to do with Redux, but it should make a lot of Redux-related code you need to write a lot simpler. Redux Toolkit exports several individual functions that you can use in your application, and adds in dependencies on some other packages that are commonly used with Redux.
+# What is the principle advantage of Redux Toolkit
+#### Redux Toolkit makes it easier to write good Redux applications and speeds up development, by baking in our recommended best practices.
+
+# Term :
+### redux toolkit slices : Redux slice is a collection of reducer logic and actions for a single feature of application (source: Medium (Links to an external site.)). Redux state is typically organized into slices, defined by the reducers that are passed to combineReducers .
+### namespace : Programming paradigm of providing scope to identifiers (names of types, functions, variables, etc) to prevent collisions between them. JavaScript does not provide namespace by default. However, we can replicate this functionality by making a global object which can contain all functions and variables.
+
+
+# React Native :
+#### React Native is an open-source mobile application framework created by Facebook, Inc.[3] It is used to develop applications for Android,[4] Android TV,[5] iOS, macOS,[6] tvOS,[7] Web,[8] Windows[6] and UWP[9] by enabling developers to use React's framework along with native platform capabilities.
+#### React Native brings React’s declarative UI framework to iOS and Android. With React Native, you use native UI controls and have full access to the native platform . also means a great, collaborative community of developers from all around the world. We scanned through the blogging platforms and social media sites and created a list of the best React Native experts & blogs.
+#### React Native Counter Example using Hooks! import React, { useState } from 'react'; import { View, Text, Button, StyleSheet } from 'react-native'; const App = () => { const [count, setCount] = useState(0); return ( <View style={styles.container}> <Text>You clicked {count} times</Text> <Button onPress={() => setCount(count + 1)} title="Click me!" /> </View> ); }; // React Native Styles const styles = StyleSheet.create({ container: { flex: 1, justifyContent: 'center', alignItems: 'center', }, });
